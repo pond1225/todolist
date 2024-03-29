@@ -16,6 +16,7 @@
 		6B3B68122BAAFCAA00247184 /* TodoListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B3B68112BAAFCAA00247184 /* TodoListTests.swift */; };
 		6B3B681C2BAAFCAA00247184 /* TodoListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B3B681B2BAAFCAA00247184 /* TodoListUITests.swift */; };
 		6B3B681E2BAAFCAA00247184 /* TodoListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B3B681D2BAAFCAA00247184 /* TodoListUITestsLaunchTests.swift */; };
+		6BE8745B2BB2E25300A39C98 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BE874582BB2E25300A39C98 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6B3B68172BAAFCAA00247184 /* TodoListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TodoListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B3B681B2BAAFCAA00247184 /* TodoListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListUITests.swift; sourceTree = "<group>"; };
 		6B3B681D2BAAFCAA00247184 /* TodoListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6BE874582BB2E25300A39C98 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				6B3B67FA2BAAFCA800247184 /* AppDelegate.swift */,
 				6B3B67FC2BAAFCA800247184 /* SceneDelegate.swift */,
 				6B3B67FE2BAAFCA800247184 /* ViewController.swift */,
+				6BE874582BB2E25300A39C98 /* TableViewCell.swift */,
 				6B3B68002BAAFCA800247184 /* Main.storyboard */,
 				6B3B68032BAAFCA900247184 /* Assets.xcassets */,
 				6B3B68052BAAFCA900247184 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6B3B67FF2BAAFCA800247184 /* ViewController.swift in Sources */,
+				6BE8745B2BB2E25300A39C98 /* TableViewCell.swift in Sources */,
 				6B3B67FB2BAAFCA800247184 /* AppDelegate.swift in Sources */,
 				6B3B67FD2BAAFCA800247184 /* SceneDelegate.swift in Sources */,
 			);
